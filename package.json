@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "api": "github:cswni/api-proyectos",
+    "cors": "^2.8.5"
+  }
+}
